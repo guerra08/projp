@@ -1,0 +1,318 @@
+[08/Jun/2017:15:22:50] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[08/Jun/2017:15:23:25] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[08/Jun/2017:15:23:35] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[08/Jun/2017:15:24:46] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:09:13] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:10:33] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:15:06] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:15:15] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:15:31] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:15:33] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:16:23] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:18:39] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:19:10] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:21:40] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:34:34] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:36:04] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:36:09] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:36:11] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:37:42] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:43:27] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:43:32] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:43:33] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:43:34] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:43:37] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:43:40] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:13:46:07] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'mydb'
+[09/Jun/2017:14:06:37] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:06:43] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:07:39] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:13:31] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:13:42] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:16:03] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:16:17] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:17:11] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:17:18] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:17:19] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:17:21] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:17:22] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:41:35] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:41:47] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:41:50] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:14:54:24] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:15:28:50] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:15:49:00] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:15:50:38] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:15:50:48] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:15:52:03] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:15:55:56] (adicionar_img) SQLSTATE[HY000] [1049] Unknown database 'teste'
+[09/Jun/2017:16:06:52] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[09/Jun/2017:16:06:59] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[09/Jun/2017:16:07:40] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[09/Jun/2017:16:07:45] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[09/Jun/2017:16:07:49] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[12/Jun/2017:13:11:52] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[12/Jun/2017:13:48:52] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[12/Jun/2017:14:23:16] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[12/Jun/2017:14:31:26] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[12/Jun/2017:14:31:49] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[12/Jun/2017:14:34:01] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[14/Jun/2017:12:32:39] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[14/Jun/2017:12:37:53] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[14/Jun/2017:12:40:17] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[14/Jun/2017:12:43:24] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[14/Jun/2017:12:43:44] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[14/Jun/2017:12:44:03] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[14/Jun/2017:12:45:47] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[14/Jun/2017:12:57:02] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[14/Jun/2017:12:58:33] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[14/Jun/2017:13:08:02] (adicionar_img) SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`test`.`imagem`, CONSTRAINT `fk_imagem__categoria` FOREIGN KEY (`categoria`) REFERENCES `categoria` (`id_categoria`))
+[14/Jun/2017:13:21:46] (adicionar_img) SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`test`.`imagem`, CONSTRAINT `fk_imagem__categoria` FOREIGN KEY (`categoria`) REFERENCES `categoria` (`id_categoria`))
+[14/Jun/2017:13:25:30] (adicionar_img) SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`test`.`imagem`, CONSTRAINT `fk_imagem__categoria` FOREIGN KEY (`categoria`) REFERENCES `categoria` (`id_categoria`))
+[14/Jun/2017:13:25:34] (adicionar_img) SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`test`.`imagem`, CONSTRAINT `fk_imagem__categoria` FOREIGN KEY (`categoria`) REFERENCES `categoria` (`id_categoria`))
+[14/Jun/2017:15:12:59] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:18:09] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:18:37] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:18:49] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:18:51] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:20:29] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:20:39] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:40:18] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:41:06] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:41:13] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:15:41:51] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:16:02:43] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:16:02:44] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:16:03:20] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:16:07:08] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[14/Jun/2017:16:07:13] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:12:56:11] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:12:56:12] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:12:56:13] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:13:01:05] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:16:24] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:16:24] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:16:37] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:17:27] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:18:39] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:20:44] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:20:49] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:20:50] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:21:11] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:22:05] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:22:10] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:22:13] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:22:16] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:22:17] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:22:22] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:22:22] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:22:23] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:23:16] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:23:38] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:30:39] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:14:31:24] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:15:15:46] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:15:15:52] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[19/Jun/2017:16:23:35] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[20/Jun/2017:13:29:09] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','fotos/37' WHERE id_imagem='37'' at line 1
+[20/Jun/2017:13:30:41] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','fotos/38' WHERE id_imagem='38'' at line 1
+[20/Jun/2017:13:40:29] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','fotos/39' WHERE id_imagem='39'' at line 1
+[20/Jun/2017:13:40:53] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','fotos/40' WHERE id_imagem='40'' at line 1
+[20/Jun/2017:13:41:09] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','fotos/41' WHERE id_imagem='41'' at line 1
+[20/Jun/2017:13:42:20] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','fotos/42' WHERE id_imagem='42'' at line 1
+[20/Jun/2017:13:53:17] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','fotos/43' WHERE id_imagem='43'' at line 1
+[20/Jun/2017:13:56:06] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','fotos/44' WHERE id_imagem='44'' at line 1
+[20/Jun/2017:13:59:12] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','fotos/45' WHERE id_imagem='45'' at line 1
+[20/Jun/2017:14:00:46] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','../fotos/46' WHERE id_imagem='46'' at line 1
+[20/Jun/2017:14:05:06] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','../fotos/47.png' WHERE id_imagem='47'' at line 1
+[20/Jun/2017:14:12:24] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','../fotos/48.png' WHERE id_imagem='48'' at line 1
+[20/Jun/2017:14:13:58] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','../fotos/49.png' WHERE id_imagem='49'' at line 1
+[20/Jun/2017:14:21:20] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','../fotos/50.png' WHERE id_imagem='50'' at line 1
+[20/Jun/2017:14:24:39] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','../fotos/51.png' WHERE id_imagem='51'' at line 1
+[20/Jun/2017:14:24:47] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','111','','11','','','../fotos/52.png' WHERE id_imagem='52'' at line 1
+[20/Jun/2017:14:25:06] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/53.png' WHERE id_imagem='53'' at line 1
+[20/Jun/2017:14:40:23] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/54.png' WHERE id_imagem='54'' at line 1
+[20/Jun/2017:14:41:22] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/55.png' WHERE id_imagem='55'' at line 1
+[20/Jun/2017:14:45:56] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/57.png' WHERE id_imagem='57'' at line 1
+[20/Jun/2017:14:46:23] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/58.png' WHERE id_imagem='58'' at line 1
+[20/Jun/2017:14:46:26] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/59.png' WHERE id_imagem='59'' at line 1
+[20/Jun/2017:14:46:43] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/60.png' WHERE id_imagem='60'' at line 1
+[20/Jun/2017:14:47:26] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/61.png' WHERE id_imagem='61'' at line 1
+[20/Jun/2017:14:47:35] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/62.png' WHERE id_imagem='62'' at line 1
+[20/Jun/2017:15:32:52] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/63.jpg' WHERE id_imagem='63'' at line 1
+[20/Jun/2017:15:33:47] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/64.jpg' WHERE id_imagem='64'' at line 1
+[20/Jun/2017:15:34:40] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/65.jpg' WHERE id_imagem='65'' at line 1
+[20/Jun/2017:15:36:27] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/66.jpg' WHERE id_imagem='66'' at line 1
+[20/Jun/2017:15:38:31] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/67' WHERE id_imagem='67'' at line 1
+[20/Jun/2017:15:38:56] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/68' WHERE id_imagem='68'' at line 1
+[20/Jun/2017:15:39:33] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/69' WHERE id_imagem='69'' at line 1
+[20/Jun/2017:15:42:13] (adicionar_img) SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'imagem' cannot be null
+[20/Jun/2017:15:43:13] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1','deus','','11','','','../fotos/70.jpg' WHERE id_imagem='70'' at line 1
+[20/Jun/2017:15:43:36] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','','','../fotos/71.jpg' WHERE id_imagem='71'' at line 1
+[20/Jun/2017:15:45:23] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','','','../fotos/72.jpg' WHERE id_imagem='72'' at line 1
+[20/Jun/2017:15:59:22] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','','','../fotos/73.jpg' WHERE id_imagem='73'' at line 1
+[20/Jun/2017:15:59:27] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','','','../fotos/74.jpg' WHERE id_imagem='74'' at line 1
+[20/Jun/2017:16:01:37] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','','','../fotos/75.jpg' WHERE id_imagem='75'' at line 1
+[20/Jun/2017:16:30:12] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','','','../fotos/76.jpg' WHERE id_imagem='76'' at line 1
+[20/Jun/2017:16:30:34] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','2017-06-02','1','../fotos/77.jpg' WHERE id_imagem='77'' at line 1
+[20/Jun/2017:16:34:02] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','2017-06-02','1','../fotos/78.jpg' WHERE id_imagem='78'' at line 1
+[20/Jun/2017:16:34:24] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','2017-06-02','1','../fotos/79.jpg' WHERE id_imagem='79'' at line 1
+[20/Jun/2017:16:35:22] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','2017-06-02','1','../fotos/80.jpg' WHERE id_imagem='80'' at line 1
+[20/Jun/2017:16:37:06] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''52','pai','','11','2017-06-02','1','../fotos/81.jpg' WHERE id_imagem='81'' at line 1
+[21/Jun/2017:12:41:05] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:41:47] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:44:56] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:47:31] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:47:36] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:49:10] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:50:31] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:51:15] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:52:38] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:53:12] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:54:02] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:12:54:47] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:03:46] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:04:37] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:06:24] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:09:14] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:09:46] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:11:07] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:14:58] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:15:17] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:16:28] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:16:51] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21/Jun/2017:13:40:33] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''../fotos/.112.jpg' WHERE id_imagem='112'' at line 1
+[21/Jun/2017:13:44:13] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''../fotos/.113.jpg' WHERE id_imagem='113'' at line 1
+[21/Jun/2017:13:49:12] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''asdasd','asdasdas','','asdasdasdas','2017-05-30','1','../fotos/.114.jpg' WHERE ' at line 1
+[21/Jun/2017:14:47:39] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:47:40] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:48:37] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:51:29] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:52:10] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:52:11] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:52:12] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:52:13] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:53:40] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:59:21] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:14:59:58] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:00:59] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:01:08] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:01:17] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:01:18] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:01:19] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:01:20] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:01:35] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:02:54] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:03:15] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:04:55] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:04:56] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:04:57] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:12:55] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:14:20] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:14:21] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:14:32] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:14:32] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:14:33] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:14:34] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:14:35] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:22:19] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:24:27] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:24:27] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:24:28] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:24:29] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:24:29] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:24:30] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:24:31] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:27:36] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[21/Jun/2017:15:27:39] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[22/Jun/2017:15:23:46] (criar_categoria) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'descricao' in 'field list'
+[22/Jun/2017:15:28:57] (criar_categoria) SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'descricao' cannot be null
+[22/Jun/2017:15:36:28] (criar_categoria) SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'descricao' cannot be null
+[29/Jun/2017:15:44:06] (cadastrar_adm) 
+[29/Jun/2017:15:44:59] (cadastrar_adm) 
+[03/Jul/2017:14:10:42] (cadastrar_adm) eduardo
+[06/Jul/2017:15:13:33] (cadastrar_usuario) SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipo' cannot be null
+[06/Jul/2017:15:13:49] (cadastrar_usuario) SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipo' cannot be null
+[06/Jul/2017:15:14:54] (cadastrar_usuario) SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipo' cannot be null
+[17/Jul/2017:13:31:20] (vizualizarusuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[17/Jul/2017:13:37:05] (vizualizarusuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[17/Jul/2017:13:37:46] (vizualizarusuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[17/Jul/2017:13:40:22] (vizualizarusuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[17/Jul/2017:13:40:24] (vizualizarusuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[17/Jul/2017:13:48:32] (vizualizarusuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[17/Jul/2017:13:51:45] (vizualizarusuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[17/Jul/2017:13:55:14] (vizualizarusuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[17/Jul/2017:13:55:30] (vizualizarusuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[17/Jul/2017:18:46:51] (vizualizarUsuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'e' in 'field list'
+[17/Jul/2017:18:47:29] (vizualizarUsuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'e' in 'field list'
+[17/Jul/2017:18:47:42] (vizualizarUsuario) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'e' in 'field list'
+[17/Jul/2017:18:50:39] (vizualizarUsuario) SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+[17/Jul/2017:18:51:56] (vizualizarUsuario) SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+[17/Jul/2017:18:51:58] (vizualizarUsuario) SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s)
+[29/Aug/2017:18:56:46] (acesso) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[29/Aug/2017:23:31:10] (login_usuario) SQLSTATE[HY000] [1045] Access denied for user 'aluno'@'localhost' (using password: YES)
+[29/Aug/2017:23:32:11] (login_usuario) SQLSTATE[HY000] [1045] Access denied for user 'aluno'@'localhost' (using password: YES)
+[29/Aug/2017:23:32:57] (login_usuario) SQLSTATE[HY000] [1045] Access denied for user 'aluno'@'localhost' (using password: YES)
+[29/Aug/2017:23:33:08] (login_usuario) SQLSTATE[HY000] [1045] Access denied for user 'aluno'@'localhost' (using password: YES)
+[29/Aug/2017:23:33:56] (login_usuario) SQLSTATE[HY000] [1045] Access denied for user 'aluno'@'localhost' (using password: YES)
+[29/Aug/2017:23:34:23] (login_usuario) SQLSTATE[HY000] [1045] Access denied for user 'aluno'@'localhost' (using password: YES)
+[29/Aug/2017:23:34:32] (login_usuario) SQLSTATE[HY000] [1045] Access denied for user 'aluno'@'localhost' (using password: YES)
+[29/Aug/2017:23:36:28] (login_usuario) SQLSTATE[HY000] [1045] Access denied for user 'aluno'@'localhost' (using password: YES)
+[29/Aug/2017:23:36:41] (login_usuario) SQLSTATE[HY000] [1045] Access denied for user 'aluno'@'localhost' (using password: YES)
+[29/Aug/2017:23:37:40] (acesso) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[29/Aug/2017:23:38:00] (acesso) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[29/Aug/2017:23:39:22] (acesso) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[29/Aug/2017:23:40:35] (acesso) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[29/Aug/2017:23:41:33] (acesso) SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_administrador' in 'field list'
+[06/Sep/2017:18:00:45] (adicionar_img) SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'data_insercao' at row 1
+[06/Sep/2017:18:08:37] (adicionar_img) SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column 'data_insercao' at row 1
+[06/Sep/2017:18:09:24] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[06/Sep/2017:18:09:26] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[06/Sep/2017:18:12:19] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[06/Sep/2017:18:12:50] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[06/Sep/2017:18:12:55] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[13/Sep/2017:18:59:05] (formulario_solicitacao) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[13/Sep/2017:19:00:09] (formulario_solicitacao) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[13/Sep/2017:19:00:26] (formulario_solicitacao) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[13/Sep/2017:19:00:50] (formulario_solicitacao) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[13/Sep/2017:19:01:10] (formulario_solicitacao) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[13/Sep/2017:19:07:13] (formulario_solicitacao) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[13/Sep/2017:19:07:50] (formulario_solicitacao) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[13/Sep/2017:19:09:34] (formulario_solicitacao) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[13/Sep/2017:19:09:55] (formulario_solicitacao) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[15/Sep/2017:21:28:49] (ver_categoria) SQLSTATE[HY000] [1049] Unknown database 'aluno_test2'
+[15/Sep/2017:22:10:35] (ver_categoria) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[17/Sep/2017:23:52:32] (ver_categoria) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[17/Sep/2017:23:52:32] (ver_categoria) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[17/Sep/2017:23:53:33] (ver_categoria) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[17/Sep/2017:23:53:33] (ver_categoria) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[17/Sep/2017:23:55:05] (ver_categoria) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[17/Sep/2017:23:55:05] (ver_categoria) SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+[25/Sep/2017:12:26:03] (login_usuario) SQLSTATE[HY000] [1049] Unknown database 'estagio_pablo'
+[28/Sep/2017:13:09:07] (visualizar_comentarios) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(id_imagem = '', comentario = '', autor = '', status = 1) WHERE id_comentario='1' at line 1
+[28/Sep/2017:13:09:08] (visualizar_comentarios) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(id_imagem = '', comentario = '', autor = '', status = 1) WHERE id_comentario='1' at line 1
+[28/Sep/2017:13:09:41] (visualizar_comentarios) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(id_imagem = '', comentario = '', autor = '', status = 1) WHERE id_comentario='1' at line 1
+[28/Sep/2017:13:12:06] (visualizar_comentarios) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(id_imagem = '', comentario = '', autor = '', status = 1) WHERE id_comentario='1' at line 1
+[28/Sep/2017:13:12:22] (visualizar_comentarios) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(id_imagem = '', comentario = '', autor = '', status = 1) WHERE id_comentario='1' at line 1
+[28/Sep/2017:13:12:37] (visualizar_comentarios) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(id_imagem = '', comentario = '', autor = '', status = 1) WHERE id_comentario='1' at line 1
+[28/Sep/2017:13:13:35] (visualizar_comentarios) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(id_imagem = '', comentario = '', autor = '', status = 1) WHERE id_comentario='1' at line 1
+[28/Sep/2017:13:13:36] (visualizar_comentarios) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(id_imagem = '', comentario = '', autor = '', status = 1) WHERE id_comentario='1' at line 1
+[29/Sep/2017:14:21:49] (visualizar_comentarios) SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'status' at row 1
+[29/Sep/2017:14:21:51] (visualizar_comentarios) SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'status' at row 1
+[29/Sep/2017:14:21:58] (visualizar_comentarios) SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'status' at row 1
+[29/Sep/2017:14:22:06] (visualizar_comentarios) SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'status' at row 1
+[29/Sep/2017:14:22:37] (visualizar_comentarios) SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'status' at row 1
+[29/Sep/2017:14:24:42] (ver_categoria) SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'status' at row 1
+[29/Sep/2017:14:24:47] (ver_categoria) SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'status' at row 1
+[19/Oct/2017:12:34:28] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[19/Oct/2017:12:35:41] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[19/Oct/2017:12:40:36] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[19/Oct/2017:12:45:05] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[19/Oct/2017:12:48:26] (adicionar_img) SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[20/Oct/2017:11:51:10] (adicionar_img) SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'data_insercao' at row 1
+[20/Oct/2017:11:53:43] (adicionar_img) SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'data_insercao' at row 1
+[20/Oct/2017:11:53:52] (adicionar_img) SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'data_insercao' at row 1
+[20/Oct/2017:11:54:28] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[20/Oct/2017:11:54:48] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[20/Oct/2017:11:55:25] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[22/Oct/2017:20:24:49] (cadastrar_adm) SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`estagio`.`administrador`, CONSTRAINT `fk_administrador__id_usuario` FOREIGN KEY (`id_usuario`) REFERENCES `usuario` (`id_usuario`) ON DELETE CASCADE)
