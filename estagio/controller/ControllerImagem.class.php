@@ -101,8 +101,7 @@ class ControllerImagem extends ControllerBase{
 	
 	protected function countSolicitacoes($param){
         
-        //Chama o método para listar os imagem do banco de dados de acordo com um filtro
-        //return $this->dao->countSolicitacoes($param);
+        return $this->dao->countSolicitacoes($param);
     }
 }
 
