@@ -27,10 +27,6 @@ include_once 'user_auth.php';
    
 }
 
-
-
-
-
 .panel-heading:hover {
     cursor:pointer;
 }
