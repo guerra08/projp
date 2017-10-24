@@ -4,9 +4,9 @@ final class Config {
 const SITE_URL = "http://localhost/estagio/";
 # Informações sobre o banco de dados:
 const HOST_NAME = "localhost";
-const DATABASE_NAME = "aluno_teste";
-const DATABASE_USER_NAME = "aluno";
-const DATABASE_PASSWORD= "aluno";
+const DATABASE_NAME = "estagio";
+const DATABASE_USER_NAME = "root";
+const DATABASE_PASSWORD= "";
 
 # Informações sobre o email:
 const EMAIL_HOST = "smtp.gmail.com";
