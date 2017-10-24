@@ -9,9 +9,18 @@ class Imagem {
     private $data_imagem;
     private $categoria;
     private $imagem;
+	private $status;
     
     function getImagem() {
         return $this->imagem;
+    }
+	
+	function getStatus() {
+        return $this->status;
+    }
+	
+	function setStatus($status) {
+        $this->status = $status;
     }
 
     function setImagem($imagem) {

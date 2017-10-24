@@ -2,7 +2,9 @@
 
 
 	<head>
-     
+            <link href="../dist/sweetalert.css" rel="stylesheet">
+            <script src="../dist/sweetalert.js"></script>
+            <script src="../dist/sweetalert.min.js"></script>
             <link rel="stylesheet" media="screen" href="screen.css">
 	<script src="../lib/jquery.js"></script>
 	<script src="../dist/jquery.validate.js"></script>
@@ -38,7 +40,12 @@
                 //event to perform on click of ok button of sweetalert
         });
 }
+
 </script>
+            <script src="../js/jquery.min.js"></script>
+            <script src="../js/jquery.validate.js"></script>
+            <script src="../js/jquery.maskedinput.min.js"></script>
+            
 
 	</head>
 

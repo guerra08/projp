@@ -316,3 +316,9 @@
 [20/Oct/2017:11:54:48] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
 [20/Oct/2017:11:55:25] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
 [22/Oct/2017:20:24:49] (cadastrar_adm) SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`estagio`.`administrador`, CONSTRAINT `fk_administrador__id_usuario` FOREIGN KEY (`id_usuario`) REFERENCES `usuario` (`id_usuario`) ON DELETE CASCADE)
+[24/Oct/2017:19:39:54] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Imagem','teste','','guerra','2017-09-12','69','' WHERE id_imagem='126'' at line 1
+[24/Oct/2017:19:40:39] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Imagem','teste','','guerra','2017-09-12','69','' WHERE id_imagem='126'' at line 1
+[24/Oct/2017:19:40:56] (adicionar_img) SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Imagem','teste','','fsgsdgsdfg','2017-09-12','69','' WHERE id_imagem='126'' at line 1
+[24/Oct/2017:19:41:59] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[24/Oct/2017:19:42:27] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[24/Oct/2017:19:42:41] (adicionar_img) SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens

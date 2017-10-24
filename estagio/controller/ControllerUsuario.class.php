@@ -37,7 +37,7 @@ class Controllerusuario extends Controllerbase{
             case "confirmarCadastro":
                 return $this->confirmarCadastro();
                 break;
-            case "countSolicitacoes":
+			case "countSolicitacoes":
                 return $this->countSolicitacoes();
                 break;
         }
@@ -100,15 +100,15 @@ class Controllerusuario extends Controllerbase{
         return $this->dao->listarSolicitacoes();
     }
 
-    protected function countSolicitacoes(){
-        
-          return $this->dao->countSolicitacoes();
-      }
-
     protected function confirmarCadastro(){
 
         $this->usuario->setId_usuario((isset($this->visao["id_usuario"]) && $this->visao["id_usuario"] != null) ? $this->visao["id_usuario"] : "");
 
         return $this->dao->confirmarCadastro($this->usuario);
     }
+	
+	 protected function countSolicitacoes(){
+        
+          return $this->dao->countSolicitacoes();
+      }
 }

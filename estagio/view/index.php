@@ -1,6 +1,9 @@
 <?php 
 require_once '../view/head.php';
 include_once '../view/autoload.php';
+
+session_start();
+
 ?>
 
 
@@ -199,10 +202,21 @@ include_once '../view/autoload.php';
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li class="dropdown">
-                    <a  href="login_usuario.php"><i class="glyphicon glyphicon-user"></i> Realizar login</a>
+               <?php
+			   if(isset($_SESSION['idUsuario']) && $_SESSION['idUsuario'] > 0 && isset($_SESSION['auth']) && $_SESSION['auth'] == 1){
+			   ?>
+				<li class="dropdown">
+                    <a href="repositorio.php?logout=1""><i class="glyphicon glyphicon-user"></i> Realizar logout</a>
+				<?php
+				}
+				else{
+				?>
+                    
+                <li><a href="login_usuario.php"><i class="glyphicon glyphicon-lock"></i> Realizar login</a></li>
+				<li class="dropdown">
                     
                 <li><a href="Formulario_solicitacao.php"><i class="glyphicon glyphicon-lock"></i> Solicitar acesso</a></li>
+				<?php } ?>
             </ul>
         </div>
     </div>

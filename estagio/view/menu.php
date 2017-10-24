@@ -36,14 +36,14 @@
                 <li class="nav-header"> <a href="#" data-toggle="collapse" data-target="#userMenu">Opções <i class="glyphicon glyphicon-chevron-down"></i></a>
                     <ul class="nav nav-stacked collapse in" id="userMenu">
                         <li class="active"> <a href="painel_adm.php"><i class="glyphicon glyphicon-home"></i> Painel de controle</a></li>
-                        <li class="active"> <a href="adicionar_img.php"> Adicionar imagem</a></li>
-                        <li class="active"> <a href="cadastrar_adm.php"> Cadastrar Admin</a></li>
-                        <li class="active"> <a href="criar_categoria.php"> Criar Categoria</a></li>
-                        <li class="active"> <a href="visualizar_usuarios.php"> Visualizar Usuarios</a></li>
-                        <li class="active"> <a href="repositorio.php"> Repositório</a></li>
-                        <li class="active"> <a href="cadastrar_usuario.php"> Cadastrar Usuário</a></li>
-                        <li class="active"> <a href="visualizar_comentarios.php"> Visualizar Comentarios</a></li>
-                        <li class="active"> <a href="confirmacaoImagens.php"> Confirmar Imagens</a></li>
+                        <li class="active"> <a href="adicionar_img.php"><i class="glyphicon glyphicon-picture"></i> Adicionar Fotografia</a></li>
+                        <li class="active"> <a href="cadastrar_adm.php"><i class="glyphicon glyphicon-plus"></i> Cadastrar Admin</a></li>
+                        <li class="active"> <a href="criar_categoria.php"><i class="glyphicon glyphicon-th-list"></i> Criar Categoria</a></li>
+                        <li class="active"> <a href="visualizar_usuarios.php"><i class="glyphicon glyphicon-modal-window"></i> Visualizar Usuarios</a></li>
+                        <li class="active"> <a href="repositorio.php"><i class="glyphicon glyphicon-eye-open"></i> Repositório</a></li>
+                        <li class="active"> <a href="cadastrar_usuario.php"><i class="glyphicon glyphicon-user"></i> Cadastrar Usuário</a></li>
+                        <li class="active"> <a href="visualizar_comentarios.php"><i class="glyphicon glyphicon-pencil"></i> Visualizar Comentarios</a></li>
+                        <li class="active"> <a href="confirmacaoImagens.php"><i class="glyphicon glyphicon-check"></i> Confirmar Imagens</a></li>
                      </ul>
                 </li>
                

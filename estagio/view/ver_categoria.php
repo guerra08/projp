@@ -20,9 +20,7 @@ include_once('user_auth.php');
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
 					<li class="dropdown">
-						<a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#"><i class="glyphicon glyphicon-user"></i> Admin <span class="caret"></span></a>
 						<ul id="g-account-menu" class="dropdown-menu" role="menu">
-							<li><a href="#">perfil</a></li>
 						</ul>
 					</li>
 					<li><a href="painel_adm.php?logout=1"><i class="glyphicon glyphicon-lock"></i>Realizar Logout</a></li>
@@ -50,59 +48,69 @@ include_once('user_auth.php');
 					$params->pesquisa = $_GET['id'];
 					$imagens = $controleImagem->controleAcao('listarTodos', $params);					
 					foreach($imagens as $id => $img){
+						
 					?>
-					<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-						<a class="thumbnail fancybox" rel="ligthbox" href="<?php echo $img['imagem']; ?>">
-							<img class="img-responsive" alt="sdasdasdasdasdas" src="<?php echo $img['imagem']; ?>" />
-							<div class='text-right'>
-								
-							</div> <!-- text-right / end -->
-						</a>
-						<h3 class='text-muted'><?php echo $img['nome']; ?></h3>
-						<p><?php echo $img['descricao']; ?></p>
-						<p><b>Autoria: </b><?php echo $img['autoria']; ?></p>
-					    <p><b>Data: </b><?php echo $img['data_imagem']; ?></p>
-						<a href="#" class="btn btn-default col-sm-6" onClick="verComentarios(<?php echo $img['id_imagem']; ?>)">
-									<i class="glyphicon  glyphicon-comment"></i>
-									Comentários
-						</a>
-						<a href="#" class="btn btn-default col-sm-5" onClick="comentar(<?php echo $img['id_imagem']; ?>)">
-									<i class="glyphicon  glyphicon-pushpin"></i>
-									Comentar
-						</a><br><br>
-						<a href="<?php echo $img['imagem']; ?>" class="btn btn-default col-sm-7" download>
-									<i class="glyphicon  glyphicon-download"></i>
-									Fazer Download
-						</a>
-						<br><br><br>
-                                                <form class="formulariospraesconder" id="comentario<?php echo $img['id_imagem']; ?>" method="post" action="ver_categoria.php?id=<?php echo $_GET['id']; ?>">
-							<textarea class="form-control" rows="6" resize="none" name="comentario"></textarea>	<br>
-							<input type="hidden" name="id_imagem" value="<?php echo $img['id_imagem']; ?>">
-							<input type="hidden" name="autor" value="<?php echo $_SESSION['idUsuario']; ?>">
-							<input type="hidden" name="status" value="0">
-							<input type="submit" value="Enviar" class="btn btn-success">
-						</form>
-                                                <div class="comentarios" id="comentarios<?php echo $img['id_imagem']; ?>">
-						<?php
-                                                
-                                                $controleComentario = new ControllerComentario;
-                                                $params = new stdClass;
-                                                $params->id_imagem = $img['id_imagem'];
-                                                $comentarios = $controleComentario->controleAcao('listarTodos', $params);					
-                                                $comentarios = $comentarios->comentarios;
-                                                foreach($comentarios as $id => $comentario){
-                                                	if($comentario['status'] == 1)
-                                                    echo "<pre>";
-                                                    print_r($comentario);
-                                                    echo "</pre>";
-                                                }
-                                                
-						?>
-                                                </div>
-					</div> <!-- col-6 / end -->
-					<!--END FOREACH-->
-					<?php
-					}
+							<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+								<a class="thumbnail fancybox" rel="ligthbox" href="<?php echo $img['imagem']; ?>">
+		                                                    <img style="height:200px !important;" class="img-responsive" alt="<?php echo $img['descricao']; ?>" src="<?php echo $img['imagem']; ?>" />
+									<div class='text-right'>
+										
+									</div> <!-- text-right / end -->
+		                                                       
+								</a>
+								<h3 class='text-muted'><?php echo $img['nome']; ?></h3>
+								<p><?php echo $img['descricao']; ?></p>
+								<p><b>Autoria: </b><?php echo $img['autoria']; ?></p>
+							    <p><b>Data: </b><?php echo $img['data_imagem']; ?></p>
+							    <?php
+							    if(isset($_SESSION['admin_access']) && $_SESSION['admin_access']==1){
+							    ?>
+		                                            <a  href="adicionar_img.php?op=alt&id=<?php echo $img['id_imagem']; ?>" class="btn btn-default col-sm-5"><i class="	glyphicon glyphicon-pencil">Editar</i></a>
+		                        <?php
+		                    }
+		                        ?>
+								<a href="#" class="btn btn-default col-sm-7" onClick="verComentarios(<?php echo $img['id_imagem']; ?>)">
+											<i class="glyphicon  glyphicon-comment"></i>
+											Comentários
+								</a>
+								<a href="#" class="btn btn-default col-sm-5" onClick="comentar(<?php echo $img['id_imagem']; ?>)">
+											<i class="glyphicon  glyphicon-pushpin"></i>
+											Comentar
+								</a><br><br>
+								<a href="<?php echo $img['imagem']; ?>" class="btn btn-default col-sm-7" download>
+											<i class="glyphicon  glyphicon-download"></i>
+											Fazer Download
+								</a>
+								<br><br>
+		                                              
+		                                                <form class="formulariospraesconder" id="comentario<?php echo $img['id_imagem']; ?>" method="post" action="ver_categoria.php?id=<?php echo $_GET['id']; ?>">
+									<textarea class="form-control" rows="6" resize="none" name="comentario"></textarea>	<br>
+									<input type="hidden" name="id_imagem" value="<?php echo $img['id_imagem']; ?>">
+									<input type="hidden" name="autor" value="<?php echo $_SESSION['idUsuario']; ?>">
+									<input type="hidden" name="status" value="0">
+									<input type="submit" value="Enviar" class="btn btn-success">
+								</form>
+		                                                <div class="comentarios" id="comentarios<?php echo $img['id_imagem']; ?>">
+								<?php
+		                                                
+		                                                $controleComentario = new ControllerComentario;
+		                                                $params = new stdClass;
+		                                                $params->id_imagem = $img['id_imagem'];
+		                                                $comentarios = $controleComentario->controleAcao('listarTodos', $params);					
+		                                                $comentarios = $comentarios->comentarios;
+		                                                foreach($comentarios as $id => $comentario){
+		                                                	if($comentario['status'] == 1)
+		                                                    echo "<pre>";
+		                                                    print_r($comentario);
+		                                                    echo "</pre>";
+		                                                }
+		                                                
+								?>
+		                                                </div>
+							</div> <!-- col-6 / end -->
+							<!--END FOREACH-->
+							<?php
+							}
 					?>
 					
 				</div> <!-- list-group / end -->

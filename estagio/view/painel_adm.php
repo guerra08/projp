@@ -40,7 +40,7 @@ include_once 'autoload.php';
 
                     <div class="btn-group btn-group-justified">
                         <a href="confirmacaoImagens.php" class="btn btn-primary col-sm-3">
-                            <i class="glyphicon  glyphicon-upload"></i>
+                            <i class="glyphicon  glyphicon-check"></i>
                             <br> Confirmar Imagens
                         </a>
                         <a href="cadastrar_adm.php" class="btn btn-primary col-sm-3">
@@ -48,8 +48,8 @@ include_once 'autoload.php';
                             <br> Adicionar Administrador
                         </a>
                         <a href="criar_categoria.php" class="btn btn-primary col-sm-3">
-                            <i class="glyphicon glyphicon-picture"></i>
-                            <br> Criar Nova Categoria
+                            <i class="glyphicon glyphicon-th-list"></i>
+                            <br> Criar Categoria
                         </a>
                         
                         <a href="visualizar_usuarios.php" class="btn btn-primary col-sm-3">
@@ -65,11 +65,11 @@ include_once 'autoload.php';
                             <br> Visualizar Repositório
                         </a>
                         <a href="cadastrar_usuario.php" class="btn btn-primary col-sm-3">
-                            <i class="glyphicon glyphicon-plus"></i>
-                            <br> Adicionar Usuário
+                            <i class="glyphicon glyphicon-user"></i>
+                            <br> Cadastrar Usuário
                         </a>
                         <a href="visualizar_comentarios.php" class="btn btn-primary col-sm-3">
-                            <i class="glyphicon glyphicon-picture"></i>
+                            <i class="glyphicon glyphicon-pencil"></i>
                             <br> Visualizar Comentários
                         </a>
                         
@@ -81,7 +81,7 @@ include_once 'autoload.php';
                     <br>
                      <div class="btn-group btn-group-justified">
                         <a href="adicionar_img.php" class="btn btn-success col-sm-3">
-                            <i class="glyphicon glyphicon-eye-open"></i>
+                            <i class="glyphicon glyphicon-picture"></i>
                             <br> Adicionar Fotografia
                         </a>
                     </div>
@@ -108,13 +108,7 @@ include_once 'autoload.php';
 
        
 
-            
-        </div>
-        <!--/col-span-9-->
-    </div>
-</div>
-<!-- /Main -->
-
+        
 <footer class="text-center">This Bootstrap 3 dashboard layout is compliments of <a href="http://www.bootply.com/85850"><strong>Bootply.com</strong></a></footer>
 
 <div class="modal" id="addWidgetModal">

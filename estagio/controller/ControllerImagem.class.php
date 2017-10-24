@@ -33,7 +33,7 @@ class ControllerImagem extends ControllerBase{
             case "confirmarImagem":
                 return $this->confirmarImagem($param);
                 break;
-            case "countSolicitacoes":
+			case "countSolicitacoes":
                 return $this->countSolicitacoes($param);
                 break;
         }
@@ -50,7 +50,7 @@ class ControllerImagem extends ControllerBase{
         $this->imagem->setCategoria((isset($this->visao["categoria"]) && $this->visao["categoria"] != null) ? $this->visao["categoria"] : "");
         $this->imagem->setImagem((isset($this->visao["imagem"]) && $this->visao["imagem"] != null) ? $this->visao["imagem"] : "");
         $this->imagem->setid_imagem((isset($this->visao["id_imagem"]) && $this->visao["id_imagem"] != null) ? $this->visao["id_imagem"] : "");
-    
+		$this->imagem->setStatus((isset($this->visao["status"]) && $this->visao["status"] != null) ? $this->visao["status"] : "");
         
         
       }
@@ -84,12 +84,6 @@ class ControllerImagem extends ControllerBase{
         //Chama o método para listar os imagem do banco de dados de acordo com um filtro
         return $this->dao->listarTodos($param);
     }
-
-    protected function countSolicitacoes($param){
-        
-        //Chama o método para listar os imagem do banco de dados de acordo com um filtro
-        return $this->dao->countSolicitacoes($param);
-    }
     
     protected function listarUnico($param){
         
@@ -103,6 +97,12 @@ class ControllerImagem extends ControllerBase{
         
         //Chama o método para listar um imagem específico do banco de dados
         return $this->dao->confirmarImagem($id);
+    }
+	
+	protected function countSolicitacoes($param){
+        
+        //Chama o método para listar os imagem do banco de dados de acordo com um filtro
+        //return $this->dao->countSolicitacoes($param);
     }
 }
 

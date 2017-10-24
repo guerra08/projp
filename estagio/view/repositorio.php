@@ -192,10 +192,10 @@ include_once 'user_auth.php';
                 <span class="icon-bar"></span>
             </button>
 			<?php
-			if($_SESSION['admin_access'] == 1){
+			if(isset($_SESSION['admin_access']) &&  $_SESSION['admin_access'] == 1){
 				echo '<a class="navbar-brand" href="painel_adm.php">Voltar ao Painel</a>';
 			}
-			elseif($_SESSION['admin_access'] == 0){
+			else{
 				echo '<a class="navbar-brand" href="index.php">Voltar ao Início</a>';
 			}
 			?>
@@ -203,7 +203,6 @@ include_once 'user_auth.php';
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
                 <li class="dropdown">
-                    <a  href="#"><i class="glyphicon glyphicon-user"></i> Tipo  <span class="caret"></span></a>
                     
                 <?php if(isset($_SESSION['auth']) && $_SESSION['auth'] === true){?><li><a href="repositorio.php?logout=1"><i class="glyphicon glyphicon-lock"></i>Realizar logout</a></li><?php } ?>
             </ul>
@@ -274,8 +273,8 @@ include_once 'user_auth.php';
                         <h3> '.$categoria['nome'].'</h3>
                         <p> '.mb_strimwidth($categoria['descricao'], 0, 30, "...").'</p>
                         <p>
-                            <a href="#" class="btn btn-primary">Download</a> <a href="ver_categoria.php?id='.$categoria['id_categoria'].'" class="btn btn-default">Mais informações</a>
-                        </p>
+                            <a href="adicionar_img.php" class="btn btn-primary">Adicionar imagem</a> <a href="ver_categoria.php?id='.$categoria['id_categoria'].'" class="btn btn-default">Mais informações</a> <a href="download_categoria.php?id_categoria='.$categoria['id_categoria'].'" class="btn btn-default" target="_blank">Fazer Download de todas Imagens</a>
+                        </p> 
                         
                     </div>
                 </div>

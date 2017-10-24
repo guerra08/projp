@@ -33,9 +33,6 @@ if($_GET){
       }
     }
   }
-  elseif(isset($_GET['op']) && $_GET['op'] == 'ver'){
-   
-  }
 }
 
 $tabela='';
@@ -49,12 +46,45 @@ $tabela='';
             <td>'.$usuario['nome'].'</td>
             <td>'.$usuario['email'].'</td>
             <td>'.$usuario['cpf'].'</td>
-                <th><a href"#" id="vermais" class="btn btn-success">Ver Mais </a></th>
+                <th><a href"#" onclick="vermaisusuario('.$usuario['id_usuario'].')" class="btn btn-success">Ver Mais </a></th>
          </tr>
    ' ;  
 		}
 }
 ?>
+<script>
+    function vermaisusuario(id){
+        $.ajax({
+            url: 'ajax.php?id='+id,
+            success: function(data) {
+                swal({
+                 title: 'Dados do Usuário',
+                 text: data,
+                 html: true,
+                 confirmButtonColor: '#987463',
+  
+                });
+            }
+        });
+    
+    }   
+    function vermaisadm(id){
+        $.ajax({
+            url: 'ajax_adm.php?id='+id,
+            success: function(data) {
+                swal({
+                 title: 'Dados do Usuário',
+                 text: data,
+                 html: true,
+                 confirmButtonColor: '#987463',
+  
+                });
+            }
+        });
+    
+    }   
+
+  </script>
 <div class="col-md-9">
      <h2>Tabela de Usuários</h2>
         <table class="table">
@@ -90,7 +120,7 @@ $tabeladm='';
             <td>'.$adm['nome'].'</td>
             <td>'.$adm['email'].'</td>
             <td>'.$adm['area'].'</td>
-           <th><a href="visualizar_usuarios.php?op=ver&id_usuario='.$adm['id_adm'].'" id="vermais" class="btn btn-success">Ver Mais </a></th>
+          <th><a href"#" onclick="vermaisadm('.$adm['id_usuario'].')" class="btn btn-success">Ver Mais </a></th>
           
          </tr>
    ' ;  

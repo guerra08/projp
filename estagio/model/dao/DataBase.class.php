@@ -11,16 +11,20 @@ class Database
     private function __construct()
     {
        
-        try {
+        try
+        {
             # Atribui o objeto PDO à variável $conn.
             self::$conn = new PDO("mysql:host=". Config::HOST_NAME."; dbname=".Config::DATABASE_NAME, Config::DATABASE_USER_NAME, Config::DATABASE_PASSWORD);
             # Garante que o PDO lance exceções durante erros.
             self::$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
             # Garante que os dados sejam armazenados com codificação UFT-8.
             self::$conn->exec('SET NAMES utf8');
-        } catch (PDOException $e) {
-            $logger = new Logger($e->getMessage());
         }
+        catch (PDOException $e)
+        {
+            $logger = new Logger($e->getMessage());
+           
+        } 
     }
     
     
@@ -28,7 +32,8 @@ class Database
     public static function conectar()
     {
         # Garante uma única instância. Se não existe uma conexão, criamos uma nova.
-        if (!self::$conn) {
+        if (!self::$conn)
+        {
             new Database();
         }
         # Retorna a conexão.
@@ -39,8 +44,9 @@ class Database
     public static function desconectar()
     {
         # Se existe uma conexão, setamos como nulo.
-        if (self::$conn) {
+        if (self::$conn)
+        {
             self::$conn = null;
-        }
+        }        
     }
 }
