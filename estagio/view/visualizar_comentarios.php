@@ -5,7 +5,7 @@ include_once 'head.php';
 include_once 'menu.php';
 include_once 'autoload.php';
 
-$comentarioController= new Controllercomentario();
+$comentarioController= new ControllerComentario();
 
 if($_GET){
   if(isset($_GET['op']) && $_GET['op'] == 'conf'){
